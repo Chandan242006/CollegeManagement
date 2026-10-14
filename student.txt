@@ -4,3 +4,6 @@ Roll Number: 101
 Department: CSE
 Semester: 5
 EOF
+Attendance: 85%
+Result: PASS
+EOF
