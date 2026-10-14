@@ -7,3 +7,5 @@ EOF
 Attendance: 85%
 Result: PASS
 EOF
+Feature: Attendance Management
+EOF
