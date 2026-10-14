@@ -11,3 +11,5 @@ Feature: Attendance Management
 EOF
 Project: College Management System
 EOF
+Feature: Student Profile
+EOF
