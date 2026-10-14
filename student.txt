@@ -9,3 +9,5 @@ Result: PASS
 EOF
 Feature: Attendance Management
 EOF
+Project: College Management System
+EOF
